@@ -1,4 +1,4 @@
-# Microservices System (3 Services + API Gateway)
+# Microservices System
 
 This project contains:
 - `item-service` (Node.js + Express) on `8081`
